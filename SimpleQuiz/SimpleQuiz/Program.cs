@@ -220,7 +220,6 @@ namespace SimpleQuiz
                 }
             }
 
-
             public void EditAnswers()
             {
                 Console.WriteLine("\nAntwort(en) ändern?");
